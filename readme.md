@@ -1,3 +1,3 @@
-# Cardiovascular Disease Risk Prediction Kaggle Project (Python, Scikit-Learn)
+# 🫀Cardiovascular Disease Risk Prediction Kaggle Project (Python, Scikit-Learn)
 
 In this Kaggle project, machine learning algorithms were applied to analyze the CDC’s 2021 BRFSS dataset, consisting of over 300,000 instances and 19 features. The project involved extensive data wrangling using techniques such as one-hot encoding, principal component analysis, and k-folds validations. Predictive modeling utilized logistic regression, random forest, and XGBoost, with hyper-parameter tuning performed using GridSearchCV. Model performance was evaluated through metrics such as confusion matrix and Area Under the Receiver Operating Characteristic curve, resulting in a final model with a recall score of 0.93 and an AUROC of 0.82.
